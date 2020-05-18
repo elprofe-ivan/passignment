@@ -3,5 +3,4 @@ nltk
 sklearn
 tensorflow
 numpy
-time
 matplotlib
