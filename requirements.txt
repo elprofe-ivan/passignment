@@ -1,7 +1,7 @@
 pandas
 nltk
 sklearn
-tensorflow
+tensorflow.compat.v1
 numpy
 biopython
 time
