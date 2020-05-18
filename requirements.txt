@@ -1,9 +1,7 @@
 pandas
 nltk
 sklearn
-tensorflow.compat.v1
+tensorflow
 numpy
-biopython
 time
-logging
 matplotlib
