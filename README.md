@@ -7,4 +7,4 @@
 This work presents an analysis for the relationships among cellular lines and pharmaceutical drugs.
 
 Jupyter Notebook is in this [link](https://github.com/elprofe-ivan/passignment/blob/master/predicting.ipynb)  
-A Binder interactive version is in this [link](https://github.com/elprofe-ivan/passignment/blob/master/predicting.ipynb)
+A Binder interactive version is in: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elprofe-ivan/passignment/master?filepath=predicting.ipynb)
