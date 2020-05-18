@@ -3,3 +3,8 @@ nltk
 sklearn
 tensorflow
 numpy
+json
+biopython
+time
+logging
+matplotlib
